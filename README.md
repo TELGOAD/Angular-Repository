@@ -3,6 +3,9 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.10.
 
 
+## Clone Project
+https://github.com/TELGOAD/Angular-Repository.git
+
 ## Install node modules
 ```
 npm install
